@@ -1,7 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 # v2.0
-# Author: Joe Axberg
+# Author: Keegan Gunkel
 # Comment:  This vagrant file rocks
 
 Vagrant.configure("2") do |config|
